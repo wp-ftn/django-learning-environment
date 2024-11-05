@@ -1,0 +1,9 @@
+{
+  "latestVersion": "1.0.0",
+  "latestVersionCode": 1,
+  "url": "https://github.com/wp-ftn/django-learning-environment/releases",
+  "releaseNotes": [
+    "- The first release of Django learning environment",
+    "- Android devices are currently supported"
+  ]
+}
