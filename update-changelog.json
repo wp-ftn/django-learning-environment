@@ -1,6 +1,6 @@
 {
   "latestVersion": "2.0.0",
-  "latestVersionCode": 1,
+  "latestVersionCode": 2,
   "url": "https://github.com/wp-ftn/django-learning-environment/releases",
   "releaseNotes": [
     "- The first release of Django learning environment",
